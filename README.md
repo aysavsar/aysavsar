@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aysıla Avşar
+# Hi 👋, I'm Sıla
 
 🎓 **Computer Engineer** with a passion for solving real-world problems through innovative technology solutions. I enjoy building applications, exploring machine learning, and contributing to open-source projects.
 
