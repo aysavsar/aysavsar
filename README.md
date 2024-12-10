@@ -5,7 +5,7 @@
 ---
 
 ## 📫 🔗 Contact Me 
-- **
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/silaavsar)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/aysavsar)
  
