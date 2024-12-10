@@ -71,7 +71,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aysavsar&layout=compact&langs_count=6&theme=tokyonight)
 
 ---
-
+## 🏆 Profile Views
 ![Profile Views](https://profile-counter.glitch.me/aysavsar/count.svg)
 
 
