@@ -64,6 +64,10 @@
 
 ## 🏆 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aysavsar&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=aysavsar&theme=tokyonight)
+---
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aysavsar&layout=compact&langs_count=6&theme=tokyonight)
 
 ---
 
