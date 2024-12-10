@@ -3,7 +3,6 @@
 🎓 **Computer Engineer** with a passion for solving real-world problems through innovative technology solutions. I enjoy building applications, exploring machine learning, and contributing to open-source projects.
 
 ---
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
 ## 📫 🔗 Contact Me 
@@ -72,6 +71,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aysavsar&layout=compact&langs_count=6&theme=tokyonight)
 
 ---
+## 🏆 Profile Views
+
+![Profile Views](https://profile-counter.glitch.me/aysavsar/count.svg)
+
 
 ## ✨ Let's Collaborate!
 I'm open to collaborating on projects related to:
