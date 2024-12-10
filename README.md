@@ -4,6 +4,14 @@
 
 ---
 
+## 📫 🔗 Contact Me 
+- **
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/silaavsar)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/aysavsar)
+ 
+
+---
+
 ## 🔭 Current Focus
 - **🌟 Machine Learning Projects**: Exploring advanced architectures and improving classification models.  
 - **🛠️ Software Development**: Developing robust systems using Spring Boot and React.  
@@ -19,11 +27,6 @@
 - **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
 
 - **Tools**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
-
----
-
-## 📫 Contact Me 
-- **🔗 LinkedIn**: [@silaavsar](https://linkedin.com/in/silaavsar)  
 
 ---
 
