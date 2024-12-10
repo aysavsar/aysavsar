@@ -27,8 +27,10 @@
 
 ---
 
-## 📂 Repositories
-### Public Projects
+### 📂 Repositories
+
+#### Public Projects
+
 1. [**COVID-19**](https://github.com/aysavsar/COVID-19)  
    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)  
    Comparative analysis of deep learning models (XCEPTION, VGG16, etc.) for COVID-19 detection using CT images.
@@ -41,7 +43,21 @@
    ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)  
    A recipe website built using ASP.NET.
 
+4. [**Personel Takip Otomasyonu**](https://github.com/aysavsar/Personel_Takip_Otomasyonu)  
+   ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
+   A personnel tracking system.
+
+5. [**Rock Paper Scissors Lizard Spock**](https://github.com/aysavsar/tas_kagit_makas_kertenkele_spock)  
+   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)  
+   A fun project implementing the extended version of Rock Paper Scissors.
+
 ---
+
+#### Private Repositories
+
+- **LibraryApp**  
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+  Library management system using Java and Spring Boot.
 
 ## 🏆 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aysavsar&show_icons=true&theme=radical)  
@@ -55,3 +71,6 @@ I'm open to collaborating on projects related to:
 - Frontend Development (React, Angular)  
 
 Feel free to reach out if you're interested!  
+
+
+
