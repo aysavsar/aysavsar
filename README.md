@@ -55,7 +55,7 @@
    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)  
    A fun project implementing the extended version of Rock Paper Scissors.
 
-6.  [***LibraryApp**](https://github.com/aysavsar/libraryApp)
+6.  [**LibraryApp**](https://github.com/aysavsar/libraryApp)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
   Library management system using Java and Spring Boot.
 
