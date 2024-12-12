@@ -64,7 +64,7 @@
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=aysavsar&theme=tokyonight)
 ---
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aysavsar&layout=compact&langs_count=6&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aysavsar&layout=compact&langs_count=6&theme=default)
 
 ---
 ## 🏆 Profile Views
